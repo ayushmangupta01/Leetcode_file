@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
@@ -15,9 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
