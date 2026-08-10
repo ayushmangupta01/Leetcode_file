@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0075-sort-colors) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ayushmangupta01/Leetcode_file/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0054-spiral-matrix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ayushmangupta01/Leetcode_file/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0075-sort-colors) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ayushmangupta01/Leetcode_file/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
