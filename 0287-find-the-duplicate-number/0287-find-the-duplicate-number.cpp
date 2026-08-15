@@ -12,22 +12,29 @@ public:
 
         // return -1;
 
-        // 2nd approach ( Visited Marking)
+        // // 2nd approach ( Visited Marking)
 
-        int ans = -1;
-        for(int i=0; i<nums.size(); i++) {
+        // int ans = -1;
+        // for(int i=0; i<nums.size(); i++) {
 
-            int index = abs(nums[i]);
+        //     int index = abs(nums[i]);
 
-            // Already Visited
-            if(nums[index] < 0){
-            ans = index;
-            break;
-            }
-            
-            // mark visited
-            nums[index] *= -1;
+        //     // Already Visited
+        //     if(nums[index] < 0){
+        //     ans = index;
+        //     break;
+        //     }
+
+        //     // mark visited
+        //     nums[index] *= -1;
+        // }
+        // return ans;
+
+        // Positioning Approach
+
+        while(nums[0] != nums[nums[0]]) {
+            swap(nums[0] , nums[nums[0]]);
         }
-        return ans;
+        return nums[0];
     }
 };
