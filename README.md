@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushmangupta01/Leetcode_file/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushmangupta01/Leetcode_file/tree/master/2965-find-missing-and-repeated-values) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0217-contains-duplicate) |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushmangupta01/Leetcode_file/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
 | ------- |
