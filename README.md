@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0048-rotate-image) |
+| [2485-find-the-pivot-integer](https://github.com/ayushmangupta01/Leetcode_file/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushmangupta01/Leetcode_file/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -84,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0724-find-pivot-index) |
+| [2485-find-the-pivot-integer](https://github.com/ayushmangupta01/Leetcode_file/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
