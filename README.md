@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushmangupta01/Leetcode_file/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ayushmangupta01/Leetcode_file/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0852-peak-index-in-a-mountain-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
