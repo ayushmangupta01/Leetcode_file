@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushmangupta01/Leetcode_file/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
