@@ -1,8 +1,45 @@
 class Solution {
 public:
-    vector<int> findClosestElements(vector<int>& arr, int k, int x) {
+    // Binary Search Lower bound approach
 
-        // Two Pointer approach
+    int lowerBound(vector<int>& arr, int x) {
+        int l = 0, h = arr.size() - 1;
+        int ans = -1;
+
+        while (l <= h) {
+            int mid = l + (h - l) / 2;
+            if (arr[mid] == x) {
+                ans = mid;
+                h = mid - 1;
+            } else if (x > arr[mid]) {
+                l = mid + 1;
+            } else {
+                h = mid - 1;
+            }
+        }
+        return ans;
+    }
+    vector<int> bs_method(vector<int>& arr, int k, int x) {
+        // lower bound
+        int h = lowerBound(arr, x);
+        int l = h - 1;
+
+        while (k--) {
+            if (l < 0)
+                h++;
+            else if (h >= arr.size())
+                l--;
+            else if (x - arr[l] > arr[h] - x) {
+                h++;
+            } else {
+                l--;
+            }
+        }
+        return vector<int>(arr.begin() + l + 1, arr.begin() + h);
+    }
+
+vector<int> twoPtrMethod(vector<int>&arr , int k , int x){
+    // Two Pointer approach
         int low=0 , high = arr.size()-1;
 
         while(high-low>=k){
@@ -19,6 +56,10 @@ public:
         //     ans.push_back(arr[i]);
         // }
         return vector<int>(arr.begin()+low , arr.begin() + high+1);
+        
+}
+    vector<int> findClosestElements(vector<int>& arr, int k, int x) {
+        return twoPtrMethod(arr,k,x);
         
     }
 };
