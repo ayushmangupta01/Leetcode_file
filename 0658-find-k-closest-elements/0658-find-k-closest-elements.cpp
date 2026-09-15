@@ -13,12 +13,12 @@ public:
                 high--;
             }
         }
-        // print the remaining space for k=4 means low->high
-        vector<int>ans;
-        for(int i=low; i<=high; i++){
-            ans.push_back(arr[i]);
-        }
-        return ans;
+        // // print the remaining space for k=4 means low->high
+        // vector<int>ans;
+        // for(int i=low; i<=high; i++){
+        //     ans.push_back(arr[i]);
+        // }
+        return vector<int>(arr.begin()+low , arr.begin() + high+1);
         
     }
 };
