@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0217-contains-duplicate) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ayushmangupta01/Leetcode_file/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushmangupta01/Leetcode_file/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -50,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushmangupta01/Leetcode_file/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0217-contains-duplicate) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushmangupta01/Leetcode_file/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
