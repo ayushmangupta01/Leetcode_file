@@ -21,11 +21,11 @@ bool checkPalindrome(string s , int i , int j){
                 // ek baar i remove karo , ek baar j remove karo
                 return checkPalindrome(s , i+1, j) || checkPalindrome(s , i, j-1);
             }
-            else{
+            
                 // s[i]==s[j]
                 i++;
                 j--;
-            }
+            
         }
         return true;
     }
