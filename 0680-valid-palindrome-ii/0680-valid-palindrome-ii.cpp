@@ -2,7 +2,7 @@ class Solution {
 public:
 
 bool checkPalindrome(string s , int i , int j){
-    while(i<=j){
+    while(i<j){
         if(s[i] != s[j]){
             return false;
         }
@@ -16,7 +16,7 @@ bool checkPalindrome(string s , int i , int j){
         int i =0;
         int j = s.length() -1;
 
-        while(i<=j){
+        while(i<j){
             if(s[i] != s[j]){
                 // ek baar i remove karo , ek baar j remove karo
                 return checkPalindrome(s , i+1, j) || checkPalindrome(s , i, j-1);
